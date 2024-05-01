@@ -1,0 +1,31 @@
+.root {
+    -fx-background-color: #2b2b2b;
+    -fx-base: #3c3f41;
+    -fx-control-inner-background: #3c3f41;
+    -fx-accent: #5974cf;
+    -fx-focus-color: #8592e0;
+    -fx-text-fill: #a9b7c6;
+    -fx-text-background-color: #3c3f41;
+}
+
+.button {
+    -fx-text-fill: #a9b7c6;
+    -fx-background-color: #3c3f41;
+}
+
+.button:hover {
+    -fx-background-color: #464c52;
+}
+
+.label {
+    -fx-text-fill: #a9b7c6;
+}
+
+.text-area, .text-field {
+    -fx-text-fill: #a9b7c6;
+    -fx-background-color: #3c3f41;
+}
+
+.list-cell {
+    -fx-text-fill: #a9b7c6; /* or any color you prefer */
+}
